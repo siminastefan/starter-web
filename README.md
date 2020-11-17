@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 ## Deployment
 
 This is example to show different parts of the Git repository and various commands using a web project.
+2014 Git.Training
