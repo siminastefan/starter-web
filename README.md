@@ -15,4 +15,4 @@ Please fork this repository and then issue Pull Requests for review.
 ## Deployment
 
 This is example to show different parts of the Git repository and various commands using a web project.
-2014 Git.Training
+2014 Git.Training All rights reserved
